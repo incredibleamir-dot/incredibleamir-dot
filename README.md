@@ -1,41 +1,30 @@
-<div align="center">
+# 👋 Hi, I'm Amir
 
-# Hi there! 👋
-### I'm Amir Arshad 🚀
+🎓 **Diploma in Computer Science & Engineering** · Government Polytechnic College, Kotdwar  
+📦 **Logistics professional** · 🐍 **Hobbyist programmer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-incredibleamir--dot-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/incredibleamir-dot)
-[![Profile Views](https://komarev.com/ghpvc/?username=incredibleamir-dot&style=flat-square&color=blue)](https://github.com/incredibleamir-dot)
+I don't program for a living — I program because **I'm curious**.  
+Often, there isn't even a real need to build something. I just wonder *"Can I?"* … and then build it. 😄
 
-</div>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)](https://doc.qt.io/qtforpython/)
+[![Pygame](https://img.shields.io/badge/Pygame-333333?style=flat-square&logo=python&logoColor=white)](https://www.pygame.org/)
+[![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)](https://www.opengl.org/)
 
----
+## 🌟 Things I've Built
 
-## 👨‍💻 About Me
+🌙 **[Moon Watch](https://github.com/incredibleamir-dot/moon-watch)**  
+*Crescent Moon visibility & astronomy*
 
-- 🐍 I enjoy building things with **Python**
-- 🧠 Interested in **algorithms, optimization & problem solving**
-- ⚙️ I like turning repetitive problems into **automation**
-- 🖥️ Build small **desktop tools, utilities & experiments**
-- 🎮 Occasionally build things just because they're **fun**
-- 🚢 I work in **logistics**, which gives me plenty of real-world problems to solve with code
-- 🔭 Always experimenting with something new
-- 💡 **Curiosity is usually where the project starts**
+🌌 **[Moon Watch 3D](https://github.com/incredibleamir-dot/moon-watch-3d)**  
+*Interactive Earth–Moon–Sun simulation*
 
----
+☀️ **[Tiny Solar System](https://github.com/incredibleamir-dot/tiny-solarsystem)**  
+*A small interactive solar-system experiment*
 
-## 🛠️ Languages & Tools
+🐍 **[PythonBasic](https://github.com/incredibleamir-dot/PythonBasic)**  
+*Python inspired by Microsoft Small Basic*
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/PySide6-000?style=for-the-badge&logo=qt&logoColor=41CD52">
-<img src="https://img.shields.io/badge/Pygame-000?style=for-the-badge&logo=python&logoColor=white">
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Algorithms-000?style=flat-square&logo=thealgorithms&logoColor=white">
-<img src="https://img.shields.io/badge/Automation-000?style=flat-square&logo=dependabot&logoColor=white">
-<img src="https://img.shields.io/badge/GUI%20Development-000?style=flat-square&logo=qt&logoColor=white">
-<img src="https://img.shields.io/badge/Problem%20Solving-000?style=flat-square&logo=probot&logoColor=white">
-</p>
+> **Programming is my hobby. Curiosity is the fuel. 🚀**
