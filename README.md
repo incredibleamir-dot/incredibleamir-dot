@@ -27,9 +27,6 @@ Often, there isn't even a real need to build something. I just wonder *"Can I?"*
 *Interactive Earth–Moon–Sun simulation*
 
 
-🌙 **[Moondrop](https://github.com/incredibleamir-dot/moondrop)**  
-*Orbital-to-surface lunar lander — Keplerian orbit, RK4 physics, optimal auto-lander*
-
 
 ☀️ **[Tiny Solar System](https://github.com/incredibleamir-dot/tiny-solarsystem)**  
 *A small interactive solar-system experiment (the 2D original)*
