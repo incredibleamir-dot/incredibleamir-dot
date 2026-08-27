@@ -19,6 +19,10 @@ Often, there isn't even a real need to build something. I just wonder *"Can I?"*
 ## 🌟 Things I've Built
 
 
+🌙 **[Crescent Visibility Workstation](https://github.com/incredibleamir-dot/Crescent-Visibility-Workstation)**  
+*PySide6 desktop app for predicting Ramadan/Eid crescent visibility*
+
+
 🌙 **[Moon Watch](https://github.com/incredibleamir-dot/moon-watch)**  
 *Crescent Moon visibility & astronomy*
 
