@@ -1,12 +1,29 @@
-# 👋 Hi, I'm Amir
+# Amir Arshad
 
-🎓 **Diploma in Computer Science & Engineering** · Government Polytechnic College, Kotdwar  
-📦 **Logistics professional** · 🐍 **Hobbyist programmer**
+📦 I move freight for a living. 🌙 I move moons for fun.
 
+**Logistics professional** by day, **hobbyist programmer** by curiosity.
+Diploma in Computer Science & Engineering · Govt. Polytechnic College, Kotdwar.
 
-I don't program for a living — I program because **I'm curious**.  
-Often, there isn't even a real need to build something. I just wonder *"Can I?"* … and then I try to build it. 😄
+I don't program because I have to — I program because I wonder *"Can I?"*
+Most of my projects have no business case. They have something better: curiosity. 😄
 
+## 🪐 If my GitHub were a solar system
+
+| Body | Repo | Role |
+|---|---|---|
+| ☀️ | Curiosity | The star everything orbits |
+| 🛰 | [Crescent Visibility Workstation](https://github.com/incredibleamir-dot/Crescent-Visibility-Workstation) | Mission control — Ramadan/Eid crescent predictor (PySide6). Point your phone at the sky and the map follows |
+| 🌙 | [Moon Watch](https://github.com/incredibleamir-dot/moon-watch) | The Moon — the original pygame crescent-visibility app |
+| 🌌 | [Moon Watch 3D](https://github.com/incredibleamir-dot/moon-watch-3d) | The far side — interactive Earth–Moon–Sun simulation |
+| ☀️🪐 | [Tiny Solar System](https://github.com/incredibleamir-dot/tiny-solarsystem) + [3D](https://github.com/incredibleamir-dot/tiny-solarsystem-3d) | The planets — a 2D experiment that grew into pygame + ModernGL |
+| 🚀 | [PythonBasic](https://github.com/incredibleamir-dot/PythonBasic) | The launchpad — Python with the soul of Microsoft Small Basic, for the next curious beginner |
+
+## 🔭 Currently tracking
+
+📱➡️🌙 A phone as a telescope: rotation-vector + magnetometer fusion steering a live sky map, calibrated on the real Moon.
+
+## 🧰 Toolbox
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -15,33 +32,5 @@ Often, there isn't even a real need to build something. I just wonder *"Can I?"*
 [![Pygame](https://img.shields.io/badge/Pygame-333333?style=flat-square&logo=python&logoColor=white)](https://www.pygame.org/)
 [![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)](https://www.opengl.org/)
 
-
-## 🌟 Things I've Built
-
-
-🌙 **[Crescent Visibility Workstation](https://github.com/incredibleamir-dot/Crescent-Visibility-Workstation)**  
-*PySide6 desktop app for predicting Ramadan/Eid crescent visibility*
-
-
-🌙 **[Moon Watch](https://github.com/incredibleamir-dot/moon-watch)**  
-*Crescent Moon visibility & astronomy*
-
-
-🌌 **[Moon Watch 3D](https://github.com/incredibleamir-dot/moon-watch-3d)**  
-*Interactive Earth–Moon–Sun simulation*
-
-
-
-☀️ **[Tiny Solar System](https://github.com/incredibleamir-dot/tiny-solarsystem)**  
-*A small interactive solar-system experiment (the 2D original)*
-
-
-🪐 **[Tiny Solar System 3D](https://github.com/incredibleamir-dot/tiny-solarsystem-3d)**  
-*Interactive 3D Solar System explorer — pygame + ModernGL*
-
-
-🐍 **[PythonBasic](https://github.com/incredibleamir-dot/PythonBasic)**  
-*Python inspired by Microsoft Small Basic*
-
-
+---
 > **Programming is my hobby. Curiosity is the fuel. 🚀**
